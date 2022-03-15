@@ -1,0 +1,49 @@
+body{
+    margin-top: 50px;
+    font-family: 'Lato', sans-serif;
+   background-color: whitesmoke;
+}
+
+
+.c1{
+    display: flex;
+}
+
+.row{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.box_2{
+    width:70%;
+    margin-bottom: 100px;
+
+    padding: 50px 50px 50px 50px;
+    
+    
+    
+    
+}
+
+.box_A{
+    width: 40%;
+    padding: 10px 20px 30px 40px;
+    
+    
+    
+}
+
+.row_a{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+
+.container_1{
+    flex:1;
+   
+
+}
+.container_1:first-child{
+    margin-right: 20px;
+}
